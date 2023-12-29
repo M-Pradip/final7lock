@@ -33,7 +33,7 @@ export function Frequency() {
             <SelectGroup>
               {/* <SelectLabel>Frequency</SelectLabel> */}
               <SelectItem value="Weekly">Weekly</SelectItem>
-              <SelectItem value="Fortnight">Fort</SelectItem>
+              <SelectItem value="Fort">Fortnight</SelectItem>
               <SelectItem value="Multiple Times">Multiple Times</SelectItem>
               <SelectItem value="Instantly">Instantly</SelectItem>
             </SelectGroup>
